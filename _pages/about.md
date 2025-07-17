@@ -27,6 +27,20 @@ I am currently a third-year PhD student in the MSP Lab at Shanghai Jiao Tong Uni
 # 📝 Publications 
 <!-- ######################################################### -->
 
+<div class='paper-box'><div class='paper-box-image'><img src='collections/suite-in++.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**
+
+ICRA, 2025
+
+**Lan Sun**, Songpengcheng Xia, Jiarui Yang, Ling Pei  
+
+[Paper](https://arxiv.org/pdf/2504.00438?)\| [Code](https://github.com/LannnSun/Suite_IN/tree/master)
+</div>
+</div>
+<!-- ######################################################### -->
+
 <div class='paper-box'><div class='paper-box-image'><img src='collections/mmdear.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -56,16 +70,16 @@ ICRA, 2025
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09*: &nbsp;The Third Prize Scholarship, Nankai University.
+- *2019.11*: &nbsp;Silver Medal, The 44th ACM International Collegiate Programming Contest (ICPC), Nanchang.
+- *2019.09*: &nbsp;The First Prize Scholarship, Dalian University of Technology.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 - now*, PhD student in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China.
+- *2019.09 - 2023.06*, B.S. in School of Instrument Science and Engineering (ISE) (ranking 1%), Southeast University (SEU), Nanjing, China.
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+not yet
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.06 - now*, [ByteDance](https://www.bytedance.com/zh/), Shanghai, China.
