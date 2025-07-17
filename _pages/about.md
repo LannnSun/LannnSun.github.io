@@ -32,7 +32,7 @@ I am currently a third-year PhD student in the MSP Lab at Shanghai Jiao Tong Uni
 
 **Suite-IN++: A FlexiWear BodyNet Integrating Global and Local Motion Features from Apple Suite for Robust Inertial Navigation**
 
-ICRA, 2025
+TMC, 2025
 
 **Lan Sun**, Songpengcheng Xia, Jiarui Yang, Ling Pei  
 
