@@ -80,10 +80,10 @@ ICRA, 2025
 
 # 📖 Educations
 - *2023.09 - now*, PhD student in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China.
-- *2019.09 - 2023.06*, B.S. in School of Instrument Science and Engineering (ISE) (ranking 1%), Southeast University (SEU), Nanjing, China.
+- *2019.09 - 2023.06*, B.S. in School of Instrument Science and Engineering (ISE) (No.1), Southeast University (SEU), Nanjing, China.
 
 # 💬 Invited Talks
 not yet
 
 # 💻 Internships
-- *2024.06 - now*, [ByteDance](https://www.bytedance.com/zh/), Shanghai, China.
+- *2025.07 - now*, [ByteDance](https://www.bytedance.com/zh/), Shanghai, China.
