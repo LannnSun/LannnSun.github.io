@@ -70,9 +70,13 @@ ICRA, 2025
 </div>
 
 # 🎖 Honors and Awards
-- *2022.09*: &nbsp;The Third Prize Scholarship, Nankai University.
-- *2019.11*: &nbsp;Silver Medal, The 44th ACM International Collegiate Programming Contest (ICPC), Nanchang.
-- *2019.09*: &nbsp;The First Prize Scholarship, Dalian University of Technology.
+- *2021* Outstanding Student Cadres of Jiangsu Province.
+- *2021* Nanjing Anhui Chamber of Commerce Undergraduate Scholarship.
+- *2020* National College Student Mathematics Competition Third Prize.
+- *2020* First Prize of the 17th Jiangsu Province Higher Mathematics Competition.
+- *2020 Three Outstanding Students of Southeast University.
+- *2020/2021/2022*, Southeast University Outstanding Students (Top 3%).
+- *2020* National Scholarship of the People's Republic of China.
 
 # 📖 Educations
 - *2023.09 - now*, PhD student in Information and Communication Engineering, Shanghai Jiao Tong University, Shanghai, China.
