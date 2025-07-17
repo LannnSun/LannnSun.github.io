@@ -17,30 +17,43 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
 I am currently a third-year PhD student in the MSP Lab at Shanghai Jiao Tong University (SJTU), supervised by Professor Ling Pei. I obtained my Bachelor's degree from the School of Instrument Science and Engineering (ISE) at Southeast University in 2023. My research interests include human motion semantic understanding based on wearable devices, large language models, and inertial positioning.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TMC 2022. 
+- *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICRA 205 (Oral). 
 
 # 📝 Publications 
+<!-- ######################################################### -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='collections/mmdear.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**mmDEAR: mmWave Point Cloud Density Enhancement for Accurate Human Body Reconstruction**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+ICRA, 2025
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Jiarui Yang, Songpengcheng Xia**, Zengyuan Lai, Lan Sun, Qi Wu, Wenxian Yu, Ling Pei 
+
+[Paper](https://arxiv.org/pdf/2503.02375?)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- ######################################################### -->
+
+<div class='paper-box'><div class='paper-box-image'><img src='collections/suite-in.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Suite-IN: Aggregating Motion Features from Apple Suite for Robust Inertial Navigation**
+
+ICRA, 2025
+
+**Lan Sun, Songpengcheng Xia**, Junyuan Deng, Jiarui Yang, Zengyuan Lai, Qi Wu, Ling Pei 
+
+[Paper](https://arxiv.org/pdf/2411.07828) \| [Code](https://github.com/LannnSun/Suite_IN/tree/master)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
