@@ -21,7 +21,7 @@ I am currently a third-year PhD student in the MSP Lab at Shanghai Jiao Tong Uni
 
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TMC 2022. 
+- *2025.06*: &nbsp;🎉🎉 One paper is accepted by TMC 2025. 
 - *2025.01*: &nbsp;🎉🎉 Two papers are accepted by ICRA 205 (Oral). 
 
 # 📝 Publications 
